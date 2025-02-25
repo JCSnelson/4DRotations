@@ -1,3 +1,3 @@
 4D Tesseract Rotating using pygame
 
-I used rotation matrix maths (not numpy as I hadnt learnt it) and pygame in order to create a 4d Tesseract rotating on 4th dimensional planes
+I used rotation matrices implemented my own matrix multiplication algorithms and used pygame in order to render and rotate a 4D Tesseract rotating around 2D planes using the 4th dimension
